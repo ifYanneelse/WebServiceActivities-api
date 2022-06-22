@@ -10,3 +10,6 @@
 
 
 :negative_squared_cross_mark:	Alguns APIs estão incompletos
+
+<br>
+:date: 2021
